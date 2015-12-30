@@ -38,9 +38,9 @@
 #import "GCDSingleton.h"
 #import "EasedValue.h"
 
-#define DEBUG_CENTRAL NO
-#define DEBUG_PERIPHERAL NO
-#define DEBUG_PROXIMITY NO
+#define DEBUG_CENTRAL YES
+#define DEBUG_PERIPHERAL YES
+#define DEBUG_PROXIMITY YES
 
 #define UPDATE_INTERVAL 1.0f
 #define PROCESS_PERIPHERAL_INTERVAL 2.0f
