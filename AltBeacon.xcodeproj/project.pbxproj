@@ -83,7 +83,6 @@
 		6AF69BA9191FDEDE00123BAF /* CBUUID+Ext.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CBUUID+Ext.m"; sourceTree = "<group>"; };
 		6AF69BAA191FDEDE00123BAF /* CLBeacon+Ext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CLBeacon+Ext.h"; sourceTree = "<group>"; };
 		6AF69BAB191FDEDE00123BAF /* CLBeacon+Ext.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CLBeacon+Ext.m"; sourceTree = "<group>"; };
-		6AF69BAC191FDEDE00123BAF /* CustomExtensions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomExtensions.h; sourceTree = "<group>"; };
 		6AF69BAD191FDEDE00123BAF /* NSArray+Ext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+Ext.h"; sourceTree = "<group>"; };
 		6AF69BAE191FDEDE00123BAF /* NSArray+Ext.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Ext.m"; sourceTree = "<group>"; };
 		6AF69BAF191FDEDE00123BAF /* NSDate+Ext.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+Ext.h"; sourceTree = "<group>"; };
@@ -254,7 +253,6 @@
 				6AF69BA9191FDEDE00123BAF /* CBUUID+Ext.m */,
 				6AF69BAA191FDEDE00123BAF /* CLBeacon+Ext.h */,
 				6AF69BAB191FDEDE00123BAF /* CLBeacon+Ext.m */,
-				6AF69BAC191FDEDE00123BAF /* CustomExtensions.h */,
 				6AF69BAD191FDEDE00123BAF /* NSArray+Ext.h */,
 				6AF69BAE191FDEDE00123BAF /* NSArray+Ext.m */,
 				6AF69BAF191FDEDE00123BAF /* NSDate+Ext.h */,
@@ -354,7 +352,7 @@
 				LastUpgradeCheck = 0510;
 				TargetAttributes = {
 					6AF69B6E191FDE9300123BAF = {
-						DevelopmentTeam = 68UAR7Q9NP;
+						DevelopmentTeam = 5H32KN2AP9;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
